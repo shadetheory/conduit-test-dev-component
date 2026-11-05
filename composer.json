@@ -1,6 +1,7 @@
 {
     "name": "jordanpartridge/conduit-test-dev-component",
     "description": "A Conduit component for test-dev-component functionality",
+    "homepage": "https://github.com/shadetheory/conduit-test-dev-component",
     "type": "library",
     "keywords": [
         "conduit",
